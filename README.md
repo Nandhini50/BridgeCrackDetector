@@ -146,6 +146,3 @@ The system detects and highlights crack regions from bridge images to help in id
 
 ---
 
-## Author
-
-Nandhini
